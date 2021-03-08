@@ -7,8 +7,8 @@ WiFiUDP udp;
 //declare dependiences 
 unsigned int port = 5555;
 
-const char* ssid = "Vimal";
-const char* pass = "Vimal@2001";
+const char* ssid = "XXXXXS";
+const char* pass = "XXXXX";
 
 char packet[10];
 char reply[] = "hello";
